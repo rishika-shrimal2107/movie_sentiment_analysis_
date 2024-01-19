@@ -1,6 +1,5 @@
 # movie_sentiment_analysis_
 
-https://c8.alamy.com/comp/2G9R6PJ/young-man-crossing-arms-saying-no-gesture-show-thumbs-up-vector-doodle-cartoon-character-illustration-person-making-x-shapestop-sign-with-hands-negative-and-positive-expression-yes-and-no-concept-2G9R6PJ.jpg
 
 ##Overview
 
@@ -26,3 +25,25 @@ and a target column "sentiment" which describe the sentiment of the viewer about
 
 Preprocessing: The text data undergoes preprocessing steps, including tokenization, stemming, and removal of stop words, to prepare it for machine learning models.
 Machine Learning Models: Several machine learning models are implemented, 
+
+# Movie Sentiment Analysis
+
+![Project Logo/Image](link_to_your_image)
+
+## Overview
+
+This project focuses on sentiment analysis of movie reviews using machine learning techniques. The goal is to predict the sentiment (positive or negative) expressed in a given movie review.
+
+## Features
+
+- **Dataset:** The project utilizes a curated dataset of movie reviews.
+- **Machine Learning Models:** Several machine learning models, including Natural Language Processing (NLP) techniques, Naive Bayes, Support Vector Machines (SVM), and Recurrent Neural Networks (RNNs), are implemented for sentiment analysis.
+- **Evaluation Metrics:** Models are evaluated based on accuracy, precision, recall, and F1 score.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/movie-sentiment-analysis.git
+   cd movie-sentiment-analysis
+
